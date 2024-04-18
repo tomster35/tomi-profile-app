@@ -1,8 +1,5 @@
 # tomi-profile-app
 
-
-
-
 Task 1.
 Create a component that accepts a string as a parameter to an input and scores the word based on each
 of its letters in the alphabet (a = 1, b = 2, c = 3, etc.)
@@ -18,3 +15,9 @@ contact details and the score of their name (first + last) using the function fr
 Additional functionality:
 Ability to sort the cards by first name, age and name score.
 Filter card visibility based on gender.
+
+
+# STEPS TO RUN
+
+-download this project and ensure you have axios (npm i axios)
+-run 'npm start' in terminal to run server 
