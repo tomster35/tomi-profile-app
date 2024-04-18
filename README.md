@@ -19,5 +19,5 @@ Filter card visibility based on gender.
 
 # STEPS TO RUN
 
--download this project and ensure you have axios (npm i axios)
--run 'npm start' in terminal to run server 
+download this project and ensure you have axios (npm i axios)
+run 'npm start' in terminal to run server 
